@@ -7,10 +7,10 @@ This project performs a full exploratory analysis of the NSMES1988 dataset, whic
 - Carllos Watts-Nogueira  
 - Ranjan Baral  
 
-Course: Artificial Intelligence & Machine Learning
-University of San Diego / Fullstack Academy
-Section: 2504-FTB-CT-AIM-PT
-End Date: May/2025
+- Course: Artificial Intelligence & Machine Learning
+- University of San Diego / Fullstack Academy
+- Section: 2504-FTB-CT-AIM-PT
+- End Date: May/2025
 
 ## Dataset Summary
 **File Name**: `NSMES1988.csv`  
