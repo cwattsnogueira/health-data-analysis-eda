@@ -65,7 +65,7 @@ This section consolidates all analytical findings:
 - Recommended next steps for anomaly review and deeper cross-variable analysis  
 
 ## Technologies Used
-- Python 3.10  
+- Python 
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Google Colab / Jupyter Notebook
