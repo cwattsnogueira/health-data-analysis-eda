@@ -12,6 +12,16 @@ This project performs a full exploratory analysis of the NSMES1988 dataset, whic
 - Section: 2504-FTB-CT-AIM-PT
 - End Date: May/2025
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Dataset](https://img.shields.io/badge/Dataset-NSMES1988.csv-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab%20%2F%20Jupyter-yellow.svg)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%26%20Matplotlib-orange.svg)
+![Memory Optimized](https://img.shields.io/badge/Memory%20Usage-Optimized-success.svg)
+![Team](https://img.shields.io/badge/Team-Carllos%20%26%20Ranjan-blueviolet.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+
 ## Dataset Summary
 **File Name**: `NSMES1988.csv`  
 **Source**: [Drive Folder](https://drive.google.com/drive/folders/1Bs-qDfJFSMKIpC_rFs2f-LmLougXonf-)  
